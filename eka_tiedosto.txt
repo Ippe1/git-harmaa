@@ -1,1 +1,2 @@
 Tämä on tiedoston ensinmäinen osa
+tää kohta on tehty githubin puolella, harjoitus mielessä.
